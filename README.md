@@ -13,7 +13,7 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)
 
-## My Skill <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif"  width = 32px>
+## <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  width = 32px> My Skill 
 <table><tr><td valign="top" width="33%">
 
 # <img src = "https://cdn-icons-png.flaticon.com/512/6214/6214248.png" width = 32px> Langugae
