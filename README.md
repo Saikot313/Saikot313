@@ -56,13 +56,10 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikot313&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikot313&theme=radical&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikot313&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
+# 📊 My Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saikot313&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saikot313&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikot313&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saikot313&limit=5&theme=radical&combine_all_yearly_contributions=true)
