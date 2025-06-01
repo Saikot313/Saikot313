@@ -31,10 +31,13 @@
   <img [KOTLIN] src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
  
-# <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1zqz6rgngQHLNp-UcAV3GxHrfYEuBVyKgTfm6W3N9oWdIne7IYP_K_WSea7RVGwxe1I&usqp=CAU" width = 32px> FRAMEWORKS, PLATFORMS & LIBRARIES
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1zqz6rgngQHLNp-UcAV3GxHrfYEuBVyKgTfm6W3N9oWdIne7IYP_K_WSea7RVGwxe1I&usqp=CAU" width = 32px> Frameworks,Platfrom & Libraris
+<p align="center">
+  <img [FLUTTER] src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img [ANDROID] src="https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639"/>
+  <img [ANACONDA] src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
+
 
   
  # <img src = "https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width = 32px> Database
