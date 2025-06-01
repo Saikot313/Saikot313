@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzc2Yzc4YjczZWRlYjNkMTQxNTQ2NmI3NDhmOWIyODY0OTE0OGE0MyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on women safety app<br>🌱 I’m currently learning Flutter App Development<br>💬 Ask me about Android<br>📫 How to reach me sakendersaikot88@gmail.com<br>⚡ Fun fact - I am Lazy but Smart
+🔭 I’m currently working on OmegaSoft Online ERP Solution<br>🌱 I’m currently learning Flutter App Development<br>💬 Ask me about Android<br>📫 How to reach me sakendersaikot88@gmail.com<br>⚡ Fun fact - I am Lazy but Smart
 
 
 ## 🌐 Socials:
