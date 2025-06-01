@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.facebook.com/md.sakender.saikot">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" alt="Facebook"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" alt="Facebook style="margin-right: 15px;"/>
 </a>
 <a href="https://www.linkedin.com/in/md-sakender-saikot-9970282a5/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
