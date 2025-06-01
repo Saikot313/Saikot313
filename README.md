@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) 
-![LinkedIn](https://www.linkedin.com/in/md-sakender-saikot-9970282a5/)
+![LinkedIn]([https://www.linkedin.com/in/md-sakender-saikot-9970282a5/](https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png)) 
 
 ## <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  width = 32px> My Skill 
 <table><tr><td valign="top" width="33%">
