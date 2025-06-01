@@ -16,7 +16,7 @@
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715007685358/9172b873-9f84-4a81-83b4-55c462ed1622.jpeg" hight="100" width="100" alt="LinkedIn" style="margin-right: 100px;"/>
 </a>
 <a href="https://discord.com/channels/@me">
-  <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/05/discord-3-ap24-hero.jpg" hight="100" width="100" alt="Discord"/>
+  <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/07/Discord_IAP_KeyVisuals_Header_02-resized.jpg" hight="100" width="100" alt="Discord"/>
 </a>
 
 
