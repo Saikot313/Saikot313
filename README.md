@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.facebook.com/md.sakender.saikot">
-  <img src="https://cdn6.aptoide.com/imgs/9/7/9/9798f8d36ceb13c024595c2c0410158a_fgraphic.png" hight="500" width="500" alt="Facebook" style="margin-right: 20px;"/>
+  <img src="https://cdn6.aptoide.com/imgs/9/7/9/9798f8d36ceb13c024595c2c0410158a_fgraphic.png" hight="250" width="250" alt="Facebook" style="margin-right: 20px;"/>
 </a>
 <a href="https://www.linkedin.com/in/md-sakender-saikot-9970282a5/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
