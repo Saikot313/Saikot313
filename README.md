@@ -10,10 +10,13 @@
 
 ## 🌐 Socials:
 <a href="https://www.facebook.com/md.sakender.saikot">
-  <img src="https://cdn6.aptoide.com/imgs/9/7/9/9798f8d36ceb13c024595c2c0410158a_fgraphic.png" hight="100" width="100" alt="Facebook" style="margin-right: 50px;"/>
+  <img src="https://cdn6.aptoide.com/imgs/9/7/9/9798f8d36ceb13c024595c2c0410158a_fgraphic.png" hight="100" width="100" alt="Facebook" style="margin-right: 100px;"/>
 </a>
 <a href="https://www.linkedin.com/in/md-sakender-saikot-9970282a5/">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715007685358/9172b873-9f84-4a81-83b4-55c462ed1622.jpeg" hight="100" width="100" alt="LinkedIn"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715007685358/9172b873-9f84-4a81-83b4-55c462ed1622.jpeg" hight="100" width="100" alt="LinkedIn" style="margin-right: 100px;"/>
+</a>
+<a href="https://discord.com/channels/@me">
+  <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/05/discord-3-ap24-hero.jpg" hight="100" width="100" alt="Discord"/>
 </a>
 
 
