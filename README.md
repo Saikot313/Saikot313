@@ -21,7 +21,7 @@
 ## <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  width = 32px> My Skill 
 <table><tr><td valign="top" width="33%">
 
-# <img src = "https://cdn-icons-png.flaticon.com/512/6214/6214248.png" width = 32px> Langugae
+# <img src = "https://cdn-icons-png.flaticon.com/512/6214/6214248.png" width = 32px> Programming Languages
 <p align="center">
   <img [C] src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img [C++] src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
