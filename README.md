@@ -9,9 +9,7 @@
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/md-sakender-saikot-9970282a5/)
 
 ## <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  width = 32px> My Skill 
 <table><tr><td valign="top" width="33%">
@@ -27,7 +25,6 @@
 
  
 # <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1zqz6rgngQHLNp-UcAV3GxHrfYEuBVyKgTfm6W3N9oWdIne7IYP_K_WSea7RVGwxe1I&usqp=CAU" width = 32px> FRAMEWORKS, PLATFORMS & LIBRARIES
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
