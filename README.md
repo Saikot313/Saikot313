@@ -40,12 +40,14 @@
 
 
   
- # <img src = "https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width = 32px> Database
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+# <img src = "https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width = 32px> Database
+<p align="center">
+  <img [Firebase] src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img [Oracle] src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img [MySQL] src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img [MicrosoftSQLServer] src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img [SQLite] src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 # <img src = "https://buildfire.com/wp-content/uploads/2021/10/Whats-the-Difference-Between-UX-Design-vs.-UI-Design_@3x-1-scaled-1200x900.jpg" width = 32px> UI/UX Design
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) 
