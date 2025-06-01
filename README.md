@@ -4,12 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzc2Yzc4YjczZWRlYjNkMTQxNTQ2NmI3NDhmOWIyODY0OTE0OGE0MyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on women safety app<br>🌱 I’m currently learning Kotlin native<br>💬 Ask me about Android<br>📫 How to reach me sakendersaikot88@gmail.com<br>⚡ Fun fact - I am Lazy but Smart
+🔭 I’m currently working on women safety app<br>🌱 I’m currently learning Flutter App Development<br>💬 Ask me about Android<br>📫 How to reach me sakendersaikot88@gmail.com<br>⚡ Fun fact - I am Lazy but Smart
 
 
 ## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) 
-![LinkedIn]([https://www.linkedin.com/in/md-sakender-saikot-9970282a5/](https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png)) 
+[![Facebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://www.facebook.com/md.sakender.saikot)
+&nbsp;
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/md-sakender-saikot-9970282a5/)
+
 
 ## <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  width = 32px> My Skill 
 <table><tr><td valign="top" width="33%">
