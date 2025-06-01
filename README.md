@@ -24,7 +24,11 @@
 # <img src = "https://cdn-icons-png.flaticon.com/512/6214/6214248.png" width = 32px> Langugae
 <p align="center">
   <img [C] src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+  <img [C++] src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img [JAVA] src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img [DART] src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img [PYTHON] src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img [KOTLIN] src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
  
 # <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1zqz6rgngQHLNp-UcAV3GxHrfYEuBVyKgTfm6W3N9oWdIne7IYP_K_WSea7RVGwxe1I&usqp=CAU" width = 32px> FRAMEWORKS, PLATFORMS & LIBRARIES
