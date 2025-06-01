@@ -61,13 +61,13 @@
   <img [Figma] src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-# <img src = "https://i1.sndcdn.com/avatars-000330114611-hkocch-t500x500.jpg" width = 32px> Other
+# <img src = "https://i1.sndcdn.com/avatars-000330114611-hkocch-t500x500.jpg" width = 32px> Others
 <p align="center">
   <img [Linux] src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img [Arduino] src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
 
-# 📊 My Github Stats:
+# 📊 My Github Status:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saikot313&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikot313&theme=radical&hide_border=true" /><br/>
