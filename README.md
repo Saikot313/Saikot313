@@ -105,11 +105,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Saikot313&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Contribution Graph (Static)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saikot313/Saikot313/main/github-user-contribution%20.svg" alt="Saikot Contribution Graph" width="100%">
-</p>
- 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
