@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Njb29rYXJqZHd4YThnOWs4ajN2enY1YXFlZW1menZjdzJrZjgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on OmegaSoft Online ERP Solution<br>🌱 I’m currently learning Flutter App Development<br>💬 Ask me about Android<br>📫 How to reach me sakendersaikot88@gmail.com<br>⚡ Fun fact - I am Lazy but Smart
+🔭 I’m currently working on SM Technology (betopia)<br>🌱 I’m currently learning Flutter App Development<br>💬 Ask me about Android<br>📫 How to reach me sakendersaikot88@gmail.com<br>⚡ Fun fact - I am Lazy but Smart
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saikot313&label=Profile%20views&color=0e75b6&style=flat" alt="Saikot313" /> </p>
 
