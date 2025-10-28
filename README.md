@@ -34,19 +34,21 @@
   <img [KOTLIN] src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
  
-# <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1zqz6rgngQHLNp-UcAV3GxHrfYEuBVyKgTfm6W3N9oWdIne7IYP_K_WSea7RVGwxe1I&usqp=CAU" width = 32px> Frameworks
+# <img src = "https://preview.redd.it/some-icons-i-made-for-my-github-profile-v0-9cjfxkzrapjf1.png?width=1080&crop=smart&auto=webp&s=1c79e4a06e5579e9c1c81a241f12b2b7f0ac4227" width = 32px> Andoird Frameworks
 <p align="center">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+# <img src="https://pythonlife.in/images/pythonlogo.png" width="32px"> Python Frameworks
+<p align="center">
+   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
-
-
 
 
 
