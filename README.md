@@ -1,7 +1,6 @@
 ![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZjNzg1Z3JldXFtNnYwemZpcmRrNXB2am02eGxvbngydmhocjVzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
 <h1 align="center">Hello 👋, I'm Md.Sakender Saikot</h1>
-<h3 align="center">A passionate Flutter Developer and Machine Learning enthusiast, currently pursuing MSc in Data Science and exploring Python for intelligent app development. 🇧🇩</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Njb29rYXJqZHd4YThnOWs4ajN2enY1YXFlZW1menZjdzJrZjgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
+<h3 align="center">A passionate Flutter Developer and Machine Learning enthusiast, currently pursuing MSc in Data Science and exploring Python for intelligent app development. 🇧🇩</h3><img align="right" alt="Coding" width="400" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNhNDZnaGVhOWVhZHJ0eDZyaXIyNm9yazN2NTU5aHFrOGlkcnNsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
 - 🎓 **M.Sc in Data Science** - American International University-Bangladesh (AIUB) *(Currently pursuing)*  
