@@ -5,7 +5,7 @@
 # 💫 About Me:
 - 🎓 **M.Sc in Data Science** - American International University-Bangladesh (AIUB) *(Currently pursuing)*  
 - 💻 **B.Sc in Computer Science and Engineering (CSE)** - Varendra University, Rajshahi
-- 🔭 I’m currently working my own project (E_commerce App)
+- 🔭 I’m currently working my own project (AI Based Flutter App)
 - 🚀 Pursuing Python and Machine Learning at Creative IT Institute, expanding my expertise in AI and Data Science
 - 💬 Ask me about Android Development and Machine Learning
 - 📫 How to reach me sakendersaikot88@gmail.com
