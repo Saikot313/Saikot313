@@ -1,6 +1,13 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hello 👋, I'm Md.Sakender Saikot</h1>
-<h3 align="center">A passionate Flutter Developer and Machine Learning enthusiast, currently pursuing MSc in Data Science and exploring Python for intelligent app development. 🇧🇩</h3><img align="right" alt="Coding" width="400" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZmMnEzM3Nzb3BrNnJzZnlqZ2VnYW83bDhuZHk1bnhuY2MwZGNqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Md.%20Sakender%20Saikot&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20•%20Machine%20Learning%20Engineer%20•%20Computer%20Vision&descAlignY=58"/>
+
+# Hi 👋, I'm Md. Sakender Saikot
+
+### AI Researcher • Machine Learning Engineer • Computer Vision Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Trustworthy+AI+Researcher;Deep+Learning+%7C+Computer+Vision+%7C+AI+Safety;Building+Reliable+and+Interpretable+AI+Systems;Researching+Multi-Turn+Reasoning+and+AI+Safety;Medical+AI+%7C+Uncertainty-Aware+Machine+Learning" alt="Typing SVG" />
+</div>
 
 # 💫 About Me:
 - 🎓 **M.Sc in Data Science** - American International University-Bangladesh (AIUB) *(Currently pursuing)*  
