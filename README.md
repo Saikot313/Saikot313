@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Md.%20Sakender%20Saikot&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20•%20Machine%20Learning%20Engineer%20•%20Computer%20Vision&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=color=0:ff512f,50:dd2476,100:1a2a6c&text=Md.%20Sakender%20Saikot&fontSize=45&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=AI%20Researcher%20•%20Machine%20Learning%20Engineer%20•%20Computer%20Vision&descAlignY=58"/>
 
 # Hi 👋, I'm Md. Sakender Saikot
 
