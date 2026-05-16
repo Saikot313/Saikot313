@@ -1,11 +1,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:41295a,50:2f0743,100:1b1b2f&text=Md.%20Sakender%20Saikot&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Researcher%20•%20Machine%20Learning%20Engineer%20•%20Computer%20Vision&descAlignY=58"/>
-
-# Hi 👋, I'm Md. Sakender Saikot
-
-### AI Researcher • Machine Learning Engineer • Computer Vision Enthusiast
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Trustworthy+AI+Researcher;Deep+Learning+%7C+Computer+Vision+%7C+AI+Safety;Building+Reliable+and+Interpretable+AI+Systems;Researching+Multi-Turn+Reasoning+and+AI+Safety;Medical+AI+%7C+Uncertainty-Aware+Machine+Learning" alt="Typing SVG" />
 </div>
 
